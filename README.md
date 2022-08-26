@@ -1,5 +1,5 @@
 # ApnaAnaaj (Crop Prediction App for TARP Project)
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/tree/main/static/ApnaAnaajLogo.png)](https://github.com/AviroopNandy/crop-prediction)
+<!-- [![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/tree/main/static/ApnaAnaajLogo.png)](https://github.com/AviroopNandy/crop-prediction) -->
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
