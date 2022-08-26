@@ -1,5 +1,5 @@
 # ApnaAnaaj (Crop Prediction App for TARP Project)
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/AviroopNandy/crop-prediction)
+[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/tree/main/static/ApnaAnaajLogo.png)](https://github.com/AviroopNandy/crop-prediction)
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
@@ -27,10 +27,3 @@ $ cd Crop_Prediction
 $ pip install -r requirements.txt
 $ python app.py
 ```
-
-## Screenshots
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/blob/master/static/Screenshot%20(23).png)](https://github.com/AviroopNandy/crop-prediction)
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/AviroopNandy/crop-prediction)
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/AviroopNandy/crop-prediction)
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/AviroopNandy/crop-prediction)
-[![ApnaAnaaj](https://github.com/AviroopNandy/crop-prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/AviroopNandy/crop-prediction)
